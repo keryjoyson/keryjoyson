@@ -1,0 +1,18 @@
+pipeline {
+    agent any
+    stages{
+        stage('Git-checkout'){
+            steps{
+                echo "chceking git"
+                git 'https://github.com/keryjoyson/keryjoyson.git'
+            }
+        }
+        stage('build'){
+            steps{
+                echo "building..."
+                bat 'kery.bat'
+            }
+        }
+        
+    }
+}
