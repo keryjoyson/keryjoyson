@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @keryjoyson
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...python projects
 - 📫 How to reach me ...keryjoyson138@gmail.com
 
 <!---
